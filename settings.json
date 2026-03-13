@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "T_krish.aternos.me:32474",
+    "ip": "T_krish.aternos.me",
     "port": 32474,
     "version": "",
     "try-creative": false
